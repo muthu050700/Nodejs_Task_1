@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_task_1",
+  "version": "1.0.0",
+  "description": "Node js Task-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "creating",
+    "a",
+    "file",
+    "reading",
+    "a",
+    "file",
+    "using",
+    "Express",
+    "server"
+  ],
+  "author": "Muthukumaran R",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
